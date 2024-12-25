@@ -8,13 +8,13 @@ export default function Header() {
       <nav>
         <ul className={styles.navList}>
           <li className={styles.navItem}>
-            <Link href="/home ">Home</Link>
+            <Link href="/">Home</Link>
           </li>
           <li className={styles.navItem}>
-            <Link href="/catalog">Auto</Link>
+            <Link href="/auto">Auto</Link>
           </li>
           <li className={styles.navItem}>
-            <Link href="/catalog/123">About</Link>
+            <Link href="/about">About</Link>
           </li>
         </ul>
       </nav>

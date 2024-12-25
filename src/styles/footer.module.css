@@ -1,0 +1,13 @@
+.footer{
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+}
+
+.textBlock{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color:rgb(172, 172, 172)
+}
