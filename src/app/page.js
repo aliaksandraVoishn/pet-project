@@ -7,7 +7,7 @@ export default function App() {
     <div className={styles.homePage}>
       <HomePageBackground />
       <ContentBlock
-        title="Drive Luxury, Feel the Difference."
+        title="Drive Luxury, Feel the Difference"
         description="Discover exclusive holiday offers and make this season unforgettable.
           Explore our premium selection of vehicles today."
         text="Explore Models"
@@ -16,6 +16,4 @@ export default function App() {
   );
 }
 
-// 1.сделать компонент из видео компонент
-// 2.просмотреть структуру со скрина с занятия и переделать структуру верно
-// 3.в лояуте сделать хэдэр и футер
+//сделать обновленный год на футере
